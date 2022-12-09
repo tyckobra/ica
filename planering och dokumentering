@@ -1,0 +1,13 @@
+lära mera
+följa tutorials
+göra en hemsida för recept
+
+Lös problem, fortsätt sida 22
+
+22-12-09
+Idag har jag jobbar med sass, fonts och images i Tutorialen.
+Det blev problem när jag kom till images. Det blir error i terminalen
+där det står: 
+error [ERR_REQUIRE_ESM]: require() of ES Module [...] is not supported. Instead change the require of index.js [ in my file...]  to a dynamic import() which is available in all CommonJS modules
+Försökte lösa det...
+
