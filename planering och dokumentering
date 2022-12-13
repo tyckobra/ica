@@ -1,6 +1,11 @@
+Att göra:
 lära mera
 följa tutorials
-göra en hemsida för recept
+
+---
+Jag gör Learn Eleventy From Scratch tutorialen eftersom det
+känns viktigt att jag repeterar Eleventy.
+---
 
 Lös problem, fortsätt sida 22
 
@@ -11,3 +16,4 @@ där det står:
 error [ERR_REQUIRE_ESM]: require() of ES Module [...] is not supported. Instead change the require of index.js [ in my file...]  to a dynamic import() which is available in all CommonJS modules
 Försökte lösa det...
 
+22-12-13
