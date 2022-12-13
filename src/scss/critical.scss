@@ -3,6 +3,8 @@
 
 // Next: pull in gorko for design tokens
 @import '../../node_modules/gorko/gorko.scss';
+@import 'blocks/button';
+@import 'blocks/skip-link';
 
 @import 'reset';
 // Global styles start
