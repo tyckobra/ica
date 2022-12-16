@@ -1,5 +1,6 @@
 // First up: config and functions
 @import 'config';
+@import 'blocks/cta';
 
 // Next: pull in gorko for design tokens
 @import '../../node_modules/gorko/gorko.scss';
@@ -87,3 +88,5 @@
 @import 'utilities/site-wrap';
 @import 'utilities/visually-hidden';
 @import 'utilities/wrapper';
+
+@import 'utilities/headline';
