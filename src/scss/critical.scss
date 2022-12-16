@@ -1,6 +1,7 @@
 // First up: config and functions
 @import 'config';
 @import 'blocks/cta';
+@import 'blocks/page-header';
 
 // Next: pull in gorko for design tokens
 @import '../../node_modules/gorko/gorko.scss';
