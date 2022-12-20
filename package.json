@@ -21,9 +21,8 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
-    "images": "^3.2.4",
+    "html-minifier": "^4.0.0",
     "moment": "^2.29.4",
-    "node-fetch": "^2.6.7",
-    "sass": "^1.56.2"
+    "sass": "^1.56.1"
   }
 }

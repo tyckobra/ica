@@ -79,6 +79,8 @@
 @import 'blocks/site-foot';
 @import 'blocks/site-head';
 @import 'blocks/nav';
+@import 'blocks/people';
+@import 'blocks/person';
 
 // Import utilities
 @import 'utilities/dot-shadow';
@@ -91,3 +93,4 @@
 @import 'utilities/wrapper';
 
 @import 'utilities/headline';
+@import 'utilities/auto-grid';
